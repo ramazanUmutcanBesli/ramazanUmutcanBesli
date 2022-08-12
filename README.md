@@ -1,5 +1,4 @@
 <h1 align='center'><samp><strong>Hi there 👋, I am Umutcan </strong></samp></h1>
-[![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umutcanbesli/)](https://www.linkedin.com/in/umutcanbesli/)
 
 **I.**
 <br/>
