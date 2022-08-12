@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=01ea28&size=24&width=500&lines=Hi+everybody+I'm+Umutcan+👋;AQ+Automation+Engineer;Software+Test+Automation+Engineer;Greeting+From+Turkey;Nice+to+meet+you...)](https://git.io/typing-svg)
+<h2 align='center'><samp><strong>Hi there 👋, I am Umutcan </strong></samp></h2>
 <h3 align='center'><strong>Portfolio🌐</strong></h3>
 <p align='center'>Software Development Engineer in Test | Software Test Engineer | QA Engineer </p>
 
