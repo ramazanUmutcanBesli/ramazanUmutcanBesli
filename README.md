@@ -1,11 +1,11 @@
 <h1 align='center'><samp><strong>Hi there 👋, I am Umutcan </strong></samp></h1>
-👩🏻‍💻 I work as a Software Test Engineer.
+[![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umutcanbesli/)](https://www.linkedin.com/in/umutcanbesli/)
 
+**I.**
+<br/>
+* 🤖   I’m a Software Engineer in Test 
 
-📫 How to reach me:
-
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/umutcanbesli)  [![Mail](https://img.shields.io/badge/Hotmail-ramazanumutcanbesli@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:ramazanumutcanbesli@hotmail.com)
-
+<br />
 <h2>:bulb: Languages & Frameworks</h2>
 <p align="left">
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="git"
