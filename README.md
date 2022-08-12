@@ -1,15 +1,29 @@
-<h2 align='center'><samp><strong>Hi there 👋, I am Umutcan </strong></samp></h2>
-<h3 align='center'><strong>Portfolio🌐</strong></h3>
-<p align='center'>Software Development Engineer in Test | Software Test Engineer | QA Engineer </p>
+<h1 align='center'><samp><strong>Hi there 👋, I am Umutcan </strong></samp></h1>
+- 👩🏻‍💻 I work as a Software Test Engineer.
 
 📫 How to reach me:
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/umutcanbesli)  [![Mail](https://img.shields.io/badge/Hotmail-ramazanumutcanbesli@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:ramazanumutcanbesli@hotmail.com)
 
 <h2>:bulb: Languages & Frameworks</h2>
-
-<h2>:hammer_and_wrench: Tools I use</h2>
-<code><img title="GitHub" alt="github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+<p align="left">
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="git"
+            width="35" height="35" /> </a>
+    <a href="https://github.com/" target="_blank"> <img src="https://www.svgrepo.com/show/217753/github.svg"
+            alt="github" width="30" height="30" /> </a>
+    <a href="https://www.postman.com/" target="_blank"> <img
+            src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"
+            alt="postman" width="30" height="30" /> </a>
+     <a href="https://www.w3schools.com/java/" target="_blank"> <img
+            src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" alt="java" width="35"
+            height="35" /> </a>
+     <a href="https://www.selenium.dev/" target="_blank"> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="selenium" width="30"
+            height="30"> </a>
+     <a href="https://cucumber.io/" target="_blank"> <img
+            src="https://static1.smartbear.co/cucumber/media/images/logos/icons/c4j-icon.png" alt="cucumber" width="30"
+            height="30"> </a>
+            
 </br></br>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
