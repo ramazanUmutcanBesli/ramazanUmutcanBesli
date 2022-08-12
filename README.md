@@ -1,8 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=01ea28&size=24&width=500&lines=Hi+everybody+I'm+Umutcan+👋;AQ+Automation+Engineer;Software+Test+Automation+Engineer;Greeting+From+Turkey;Nice+to+meet+you...)](https://git.io/typing-svg)
+<h3 align='center'><strong>Portfolio🌐</strong></h3>
+<p align='center'>Software Development Engineer in Test | Software Test Engineer | QA Engineer </p>
 
 📫 How to reach me:
 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/umutcanbesli)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/umutcanbesli)[![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:ramazanumutcanbesli@hotmail.com)
 
 <h2>:bulb: Languages & Frameworks</h2>
 
