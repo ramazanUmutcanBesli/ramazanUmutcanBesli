@@ -4,7 +4,7 @@
 
 📫 How to reach me:
 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/umutcanbesli)[![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:ramazanumutcanbesli@hotmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/umutcanbesli)[![Mail](https://img.shields.io/badge/Hotmail-ramazanumutcanbesli@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:ramazanumutcanbesli@hotmail.com)
 
 <h2>:bulb: Languages & Frameworks</h2>
 
