@@ -1,5 +1,6 @@
 <h1 align='center'><samp><strong>Hi there 👋, I am Umutcan </strong></samp></h1>
-- 👩🏻‍💻 I work as a Software Test Engineer.
+👩🏻‍💻 I work as a Software Test Engineer.
+
 
 📫 How to reach me:
 
