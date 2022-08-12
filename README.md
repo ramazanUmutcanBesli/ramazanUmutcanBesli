@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=01ea28&size=24&width=500&lines=Hi+everybody+I'm+Umutcan+👋;AQ+Automation+Engineer;Software+Test+Automation+Engineer;Greeting+From+Turkey;Nice+to+meet+you...)](https://git.io/typing-svg)
 
+📫 How to reach me:
+
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/umutcanbesli)
+
 <h2>:bulb: Languages & Frameworks</h2>
 
 <h2>:hammer_and_wrench: Tools I use</h2>
