@@ -10,12 +10,13 @@
 <p>
 </a> <a href="https://www.linkedin.com/in/umutcanbesli"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
 </p>
-
-**I.**
 <br/>
-* 🤖   I’m a Software Engineer in Test 
+* 🤖  Hi I’m Umutcan Besli, Software Development Engineer in Test
+  
 
 <br />
+**I.**
+
 <h2>:bulb: Languages & Frameworks</h2>
 <p align="left">
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="git"
