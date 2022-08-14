@@ -20,7 +20,7 @@ flaw identification in Software Web Applications.I graduated from University of 
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Software Testing**
 - 📫 How to reach me:**[LinkedIn](https://www.linkedin.com/in/umutcanbesli/)**    
-java cucumber gherkin html testng
+java gherkin html testng
 
 JDBC
 
@@ -46,6 +46,7 @@ Serenity
  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=Cucumber&logoColor=white" />
+ <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html&logoColor=white" />
 
 </p>
 
