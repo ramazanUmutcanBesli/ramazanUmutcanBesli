@@ -13,7 +13,13 @@ flaw identification in Software Web Applications.I graduated from University of 
   <code>
     <a href="https://www.linkedin.com/in/umutcanbesli/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"> LinkedIn</a></code>
 </h5>
+---
 
+- 🔭 I’m currently working as **Software Test Engineer**
+- 🌱 I’m currently learning **JavaScript-TypeScript**
+- 👯 I’m looking to collaborate on open source/commercial projects
+- 💬 Ask me about **Software Testing**
+- 📫 How to reach me:**[LinkedIn](https://www.linkedin.com/in/umutcanbesli/)**
 
 <h2>:bulb: Languages & Frameworks</h2>
 <p align="left">
