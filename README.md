@@ -11,7 +11,7 @@ Detail-oriented **Test Engineer** with **+1.5 years** of experience and a compre
 flaw identification in Software Web Applications.I graduated from University of Antalya Science Electrical and Electronics Engineering Department.
 <h5>
   <code>
-    <a href="https://www.linkedin.com/in/umutcanbesli/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/umutcanbesli/" title="LinkedIn Profile"><img width="22" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
 </h5>
 ---
 
@@ -19,19 +19,33 @@ flaw identification in Software Web Applications.I graduated from University of 
 - 🌱 I’m currently learning **JavaScript-TypeScript**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Software Testing**
-- 📫 How to reach me:**[LinkedIn](https://www.linkedin.com/in/umutcanbesli/)**
+- 📫 How to reach me:**[LinkedIn](https://www.linkedin.com/in/umutcanbesli/)**    
+java cucumber gherkin html testng
+
+
+JDBC
+
+REST Assured with Java
+Serenity
+
 
 <h2>:bulb: Languages & Frameworks</h2>
+<p align="left">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
- <img src="{BadgeURLHere}" />
- <img src="{BadgeURLHere}" />
- <img src="{BadgeURLHere}" />
- <img src="{BadgeURLHere}" />
- <img src="{BadgeURLHere}" />
- <img src="{BadgeURLHere}" />
- <img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" />
-
+ <img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+ <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
+ <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+ <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+ <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+ <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
+ <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=ramazanUmutcanBesli&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
