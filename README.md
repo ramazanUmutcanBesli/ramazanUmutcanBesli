@@ -9,18 +9,15 @@
 I am **Ramazan Umutcan Besli**. I am an Experienced **Software Development Engineer in Test** from **Germany**.
 Detail-oriented **Test Engineer** with **+1.5 years** of experience and a comprehensive technical knowledge of 
 flaw identification in Software Web Applications.I graduated from University of Antalya Science Electrical and Electronics Engineering Department.
-<h2>
-  <code>
-    <a href="https://www.linkedin.com/in/umutcanbesli/" title="LinkedIn Profile"><src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
-</h2>
----
+<h4 align="left">
+    <a href="https://www.linkedin.com/in/umutcanbesli/"><src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</h4>
 
 - 🔭 I’m currently working as **Software Test Engineer**
 - 🌱 I’m currently learning **JavaScript-TypeScript**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Software Testing**
 - 📫 How to reach me:**[LinkedIn](https://www.linkedin.com/in/umutcanbesli/)**    
-java  testng
 
 <h2>:bulb: Languages & Frameworks</h2>
 <p align="left">
