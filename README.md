@@ -6,18 +6,9 @@
   </a>
 </h1>
 
-
-<p>
-</a> <a href="https://www.linkedin.com/in/umutcanbesli"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
-</p>
-  
-<br/>
- 🤖  Hi I’m Umutcan Besli, Software Development Engineer in Test
-  
-
-<br />
-**I.**
-
+I am **Ramazan Umutcan Besli**. I am an Experienced **Software Development Engineer in Test** from **Germany**.
+Detail-oriented **Test Engineer** with **+1.5 years** of experience and a comprehensive technical knowledge of 
+flaw identification in Software Web Applications.I graduated from University of Antalya Science Electrical and Electronics Engineering Department.
 <h2>:bulb: Languages & Frameworks</h2>
 <p align="left">
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="git"
