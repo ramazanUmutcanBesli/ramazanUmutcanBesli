@@ -1,4 +1,4 @@
-![](https://visitcount.itsvg.in/api?id=ramazanUmutcanBesli&icon=0&color=0)](https://visitcount.itsvg.in)
+<img align="right" src="https://visitcount.itsvg.in/api?id=ramazanUmutcanBesli&icon=0&color=0">
 <h1><samp><strong>Hi there 👋, I am Umutcan </strong></samp></h1>
 <p>
 </a> <a href="https://www.linkedin.com/in/umutcanbesli"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
