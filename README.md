@@ -16,7 +16,7 @@ flaw identification in Software Web Applications. I graduated from University of
 - 🌱 I’m currently learning **JavaScript-TypeScript**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Software Testing**
-- 📫 How to reach me : **[LinkedIn](https://www.linkedin.com/in/umutcanbesli/)**    
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/umutcanbesli/)**    
 
 <h2>:bulb: Languages & Frameworks</h2>
 <p align="left">
