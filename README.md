@@ -2,7 +2,7 @@
 
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F73657&width=470&lines=Hello%2C+There!+%F0%9F%91%8B;I+am+Ramazan+Umutcan+Besli;Software+Test+Engineer;Nice+to+meet+you!)](https://git.io/typing-svg)
-
+<br/>
 
 I am **Ramazan Umutcan Besli**. I am an Experienced **Software Development Engineer in Test** from **Germany**.
 Detail-oriented **Test Engineer** with **+1.5 years** of experience and a comprehensive technical knowledge of 
