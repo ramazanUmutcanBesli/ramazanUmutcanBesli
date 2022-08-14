@@ -10,8 +10,9 @@
 <p>
 </a> <a href="https://www.linkedin.com/in/umutcanbesli"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
 </p>
+  
 <br/>
-* 🤖  Hi I’m Umutcan Besli, Software Development Engineer in Test
+ 🤖  Hi I’m Umutcan Besli, Software Development Engineer in Test
   
 
 <br />
