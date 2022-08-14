@@ -22,24 +22,15 @@ flaw identification in Software Web Applications.I graduated from University of 
 - 📫 How to reach me:**[LinkedIn](https://www.linkedin.com/in/umutcanbesli/)**
 
 <h2>:bulb: Languages & Frameworks</h2>
-<p align="left">
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="git"
-            width="35" height="35" /> </a>
-    <a href="https://github.com/" target="_blank"> <img src="https://www.svgrepo.com/show/217753/github.svg"
-            alt="github" width="30" height="30" /> </a>
-    <a href="https://www.postman.com/" target="_blank"> <img
-            src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"
-            alt="postman" width="30" height="30" /> </a>
-     <a href="https://www.w3schools.com/java/" target="_blank"> <img
-            src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" alt="java" width="35"
-            height="35" /> </a>
-     <a href="https://www.selenium.dev/" target="_blank"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="selenium" width="30"
-            height="30"> </a>
-     <a href="https://cucumber.io/" target="_blank"> <img
-            src="https://static1.smartbear.co/cucumber/media/images/logos/icons/c4j-icon.png" alt="cucumber" width="30"
-            height="30"> </a>
-            
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+ <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+ <img src="{BadgeURLHere}" />
+ <img src="{BadgeURLHere}" />
+ <img src="{BadgeURLHere}" />
+ <img src="{BadgeURLHere}" />
+ <img src="{BadgeURLHere}" />
+ <img src="{BadgeURLHere}" />
+ <img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" />
 
 
 # 📊GitHub Stats :
