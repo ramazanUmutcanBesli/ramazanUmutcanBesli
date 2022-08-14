@@ -1,4 +1,4 @@
-<h1 align='center'><samp><strong>Hi there 👋, I am Umutcan </strong></samp></h1>
+<h1><samp><strong>Hi there 👋, I am Umutcan </strong></samp></h1>
 
 **I.**
 <br/>
