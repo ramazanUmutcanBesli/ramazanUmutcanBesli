@@ -12,7 +12,9 @@ flaw identification in Software Web Applications.I graduated from University of 
 <h4 align="left">
     <a href="https://www.linkedin.com/in/umutcanbesli/"><src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </h4>
-
+<a href="https://www.linkedin.com/in/umutcanbesli/">
+  <img align="left" alt="Umutcan's LinkedIN" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 - 🔭 I’m currently working as **Software Test Engineer**
 - 🌱 I’m currently learning **JavaScript-TypeScript**
 - 👯 I’m looking to collaborate on open source/commercial projects
