@@ -1,5 +1,5 @@
 <img align="right" src="https://visitcount.itsvg.in/api?id=ramazanUmutcanBesli&icon=0&color=0">
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+UMUTCAN+BESLI....;Nice+to+meet+you!&center=true&size=30">
