@@ -20,13 +20,7 @@ flaw identification in Software Web Applications.I graduated from University of 
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Software Testing**
 - 📫 How to reach me:**[LinkedIn](https://www.linkedin.com/in/umutcanbesli/)**    
-java gherkin html testng
-
-JDBC
-
-REST Assured with Java
-Serenity
-
+java  testng
 
 <h2>:bulb: Languages & Frameworks</h2>
 <p align="left">
@@ -43,11 +37,13 @@ Serenity
  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+ <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=Cucumber&logoColor=white" />
  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html&logoColor=white" />
  <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white" />
+ <img src="" />
 
 </p>
 
