@@ -11,7 +11,7 @@ Detail-oriented **Test Engineer** with **+1.5 years** of experience and a compre
 flaw identification in Software Web Applications.I graduated from University of Antalya Science Electrical and Electronics Engineering Department.
 <h2>
   <code>
-    <a href="https://www.linkedin.com/in/umutcanbesli/" title="LinkedIn Profile"><img width="22" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
+    <a href="https://www.linkedin.com/in/umutcanbesli/" title="LinkedIn Profile"><src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
 </h2>
 ---
 
