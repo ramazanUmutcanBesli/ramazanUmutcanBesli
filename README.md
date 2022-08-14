@@ -43,10 +43,10 @@ java  testng
  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=Cucumber&logoColor=white" />
  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html&logoColor=white" />
  <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white" />
- <img src="" />
-
 </p>
 
+#  💳 Profile Summary :
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramazanUmutcanBesli&theme=vue
 ![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966](https://user-images.githubusercontent.com/101811316/176577731-a92a974d-f87c-4071-9ba1-25abde76d025.gif)
 
 
