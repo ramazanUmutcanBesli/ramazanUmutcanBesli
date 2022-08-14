@@ -1,7 +1,7 @@
 <img align="right" src="https://visitcount.itsvg.in/api?id=ramazanUmutcanBesli&icon=0&color=0">
 
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F73657&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;I+am+Ramazan+Umutcan+Besli;Software+Test+Engineer;Nice+to+meet+you!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F73657&width=470&lines=Hello%2C+There!+%F0%9F%91%8B;I+am+Ramazan+Umutcan+Besli;Software+Test+Engineer;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 
 I am **Ramazan Umutcan Besli**. I am an Experienced **Software Development Engineer in Test** from **Germany**.
