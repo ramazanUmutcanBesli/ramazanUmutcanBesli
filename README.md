@@ -47,6 +47,7 @@ Serenity
  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=Cucumber&logoColor=white" />
  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html&logoColor=white" />
+ <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white" />
 
 </p>
 
