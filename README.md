@@ -1,5 +1,12 @@
 <img align="right" src="https://visitcount.itsvg.in/api?id=ramazanUmutcanBesli&icon=0&color=0">
-<h1><samp><strong>Hi there 👋, I am Umutcan </strong></samp></h1>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+UMUTCAN+BESLI....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+
 <p>
 </a> <a href="https://www.linkedin.com/in/umutcanbesli"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
 </p>
